@@ -1,2 +1,2 @@
-# qpilot
+# QPilot
 Simple Flight Controller
